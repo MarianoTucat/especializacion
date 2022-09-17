@@ -1,0 +1,36 @@
+version:  '3'
+services:
+  datascience-notebook:
+    image:    jupyter/minimal-notebook
+    volumes:
+      - ./clases:/home/jovyan/clases
+      - ./datasets:/home/jovyan/datasets
+    ports:
+      - 8888:8888
+    container_name:   jupyter_notebook
+    command: "start-notebook.sh \
+      --NotebookApp.password=sha1:2920c2778a65:4f4daf2b2b766570ad146f79a2d74d2216265034"
+    networks:
+      mainnet:
+        ipv4_address: 172.21.0.4
+  dynamodb-local:
+    command: "-jar DynamoDBLocal.jar -sharedDb -dbPath ./data"
+    image: "amazon/dynamodb-local:latest"
+    container_name: dynamodb-local
+    ports:
+      - "8000:8000"
+    volumes:
+      - "./dynamodb:/home/dynamodblocal/data"
+    working_dir: /home/dynamodblocal
+    networks:
+      mainnet:
+        ipv4_address: 172.21.0.5
+networks:
+  mainnet:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+       - subnet: 172.21.0.0/24
+         gateway: 172.21.0.254
+

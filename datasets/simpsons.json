@@ -1,0 +1,482 @@
+[
+  {
+    "id": "0efe95f524f4dc6a68e7a7eb",
+    "difficulty": 1,
+    "text": "¿De quién es el bar al que Homero va a tomar cerveza?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Barney"
+      },
+      {
+        "number": 2,
+        "text": "Moe"
+      },
+      {
+        "number": 3,
+        "text": "Otto"
+      },
+      {
+        "number": 4,
+        "text": "Carl"
+      }
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "8b760e30cc5c702575d11f40",
+    "difficulty": 1,
+    "text": "¿Cual es el nombre del vecino religioso de la familia Simpsons?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Carl"
+      },
+      {
+        "number": 2,
+        "text": "Ned"
+      },
+      {
+        "number": 3,
+        "text": "Steve"
+      },
+      {
+        "number": 4,
+        "text": "Lucio"
+      }
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "1070443f4c1af181920c1d4d",
+    "difficulty": 1,
+    "text": "¿Cual es la frase mas repetida por el Sr. Burns?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Excelente"
+      },
+      {
+        "number": 2,
+        "text": "Genial"
+      },
+      {
+        "number": 3,
+        "text": "Estupendo"
+      },
+      {
+        "number": 4,
+        "text": "Perfecto"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "77093bb38763b42c9a8df05e",
+    "difficulty": 1,
+    "text": "¿Como se llama la cerveza que toma Homero?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "American"
+      },
+      {
+        "number": 2,
+        "text": "Chopp"
+      },
+      {
+        "number": 3,
+        "text": "Black"
+      },
+      {
+        "number": 4,
+        "text": "Duff"
+      }
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "id": "ffa98fb0f94ff03d51f4b05d",
+    "difficulty": 1,
+    "text": "¿Como se llama el mejor amigo de Bart?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Tony"
+      },
+      {
+        "number": 2,
+        "text": "Nelson"
+      },
+      {
+        "number": 3,
+        "text": "Milhouse"
+      },
+      {
+        "number": 4,
+        "text": "Martin"
+      }
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "ec3446943892389c2a3d2d17",
+    "difficulty": 1,
+    "text": "¿Como se llama el amigo de Homero que vive siempre ebrio y eructando?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Barney"
+      },
+      {
+        "number": 2,
+        "text": "Ned"
+      },
+      {
+        "number": 3,
+        "text": "Otto"
+      },
+      {
+        "number": 4,
+        "text": "Duffman"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "7e992b3891b4949919cfa7ee",
+    "difficulty": 1,
+    "text": "¿Cual es el color del cabello de Marge?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Marron"
+      },
+      {
+        "number": 2,
+        "text": "Verde"
+      },
+      {
+        "number": 3,
+        "text": "Azul"
+      },
+      {
+        "number": 4,
+        "text": "Rojo"
+      }
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "34ebe9f86310fba47b854b0e",
+    "difficulty": 1,
+    "text": "¿Donde trabaja Homero?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Floreria"
+      },
+      {
+        "number": 2,
+        "text": "Cementerio"
+      },
+      {
+        "number": 3,
+        "text": "Planta nuclear"
+      },
+      {
+        "number": 4,
+        "text": "Banco"
+      }
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "75e6e565fb720a6f01239cb1",
+    "difficulty": 1,
+    "text": "¿Como se burla Nelson comunmente?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Haha"
+      },
+      {
+        "number": 2,
+        "text": "Hehe"
+      },
+      {
+        "number": 3,
+        "text": "Hoho"
+      },
+      {
+        "number": 4,
+        "text": "Hihi"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "cd70d79eb2d0ac94d9d25b16",
+    "difficulty": 1,
+    "text": "¿Como se llama la ciudad donde viven los Simpsons?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Springfield"
+      },
+      {
+        "number": 2,
+        "text": "Shelbyville"
+      },
+      {
+        "number": 3,
+        "text": "Knoxville"
+      },
+      {
+        "number": 4,
+        "text": "No se sabe"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "cd90d21eb2d0ac94d9d25b22",
+    "difficulty": 1,
+    "text": "¿Cuantos hijos tienen Homero y Marge?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "3"
+      },
+      {
+        "number": 2,
+        "text": "1"
+      },
+      {
+        "number": 3,
+        "text": "2"
+      },
+      {
+        "number": 4,
+        "text": "No se sabe"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "54768261a3e7f589c68be9b7",
+    "difficulty": 1,
+    "text": "¿Que personaje de los Simpsons es dueño de la planta nuclear?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "El señor Burns"
+      },
+      {
+        "number": 2,
+        "text": "Skinner"
+      },
+      {
+        "number": 3,
+        "text": "Willy el escoces"
+      },
+      {
+        "number": 4,
+        "text": "Homero Simpson"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "5477e2c4eaa705ec14db8609",
+    "difficulty": 1,
+    "text": "¿Quién es el director de la escuela elemental de Sprinfield?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Willy"
+      },
+      {
+        "number": 2,
+        "text": "Skinner"
+      },
+      {
+        "number": 3,
+        "text": "Lionel Hutz"
+      },
+      {
+        "number": 4,
+        "text": "Disco Stu"
+      }
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "5477e2c4eaa705ec14db8608",
+    "difficulty": 1,
+    "text": "¿Quién de estos personajes tiene un bar?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Barney"
+      },
+      {
+        "number": 2,
+        "text": "Moe"
+      },
+      {
+        "number": 3,
+        "text": "Willy"
+      },
+      {
+        "number": 4,
+        "text": "Burns"
+      }
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "5477e2c4eaa705ec14db8605",
+    "difficulty": 1,
+    "text": "¿Cual es la bebida favorita de Homero?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Cerveza"
+      },
+      {
+        "number": 2,
+        "text": "Buzz Cola"
+      },
+      {
+        "number": 3,
+        "text": "Agua"
+      },
+      {
+        "number": 4,
+        "text": "Malteada"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "5484b8dbf4189a57e01a1799",
+    "difficulty": 1,
+    "text": "¿De que color es el vestido que siempre usa Marge?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Verde"
+      },
+      {
+        "number": 2,
+        "text": "Rojo"
+      },
+      {
+        "number": 3,
+        "text": "Blanco"
+      },
+      {
+        "number": 4,
+        "text": "Amarillo"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": "5484b8dbf4189a57e01a1801",
+    "difficulty": 1,
+    "text": "¿De que color es el cabello de Lisa y Bart?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Blanco"
+      },
+      {
+        "number": 2,
+        "text": "Rubio"
+      },
+      {
+        "number": 3,
+        "text": "Morocho"
+      },
+      {
+        "number": 4,
+        "text": "Colorado"
+      }
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "5484b8dbf4189a57e01a1802",
+    "difficulty": 1,
+    "text": "¿Que suele usar Bart?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Una bicicleta"
+      },
+      {
+        "number": 2,
+        "text": "Una patineta"
+      },
+      {
+        "number": 3,
+        "text": "Un triciclo"
+      },
+      {
+        "number": 4,
+        "text": "Una moto"
+      }
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": "5484b8dbf4189a57e01a1803",
+    "difficulty": 1,
+    "text": "¿Cuantas hermanas tiene Marge?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Ninguna"
+      },
+      {
+        "number": 2,
+        "text": "1"
+      },
+      {
+        "number": 3,
+        "text": "2"
+      },
+      {
+        "number": 4,
+        "text": "3"
+      }
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": "1e222b3891b4949919cfa7ae",
+    "difficulty": 1,
+    "text": "¿Que le gustaria mas a Homero?",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Trabajar"
+      },
+      {
+        "number": 2,
+        "text": "Comer"
+      },
+      {
+        "number": 3,
+        "text": "Hacer ejercicio"
+      },
+      {
+        "number": 4,
+        "text": "Jugar Football"
+      }
+    ],
+    "correctAnswer": 2
+  }
+]
